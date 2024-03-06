@@ -20,7 +20,7 @@ The recommender system follows a step-by-step process, utilizing a dataset of 50
 ### Feature Selection:
 
 - Focused on text features that are likely to contribute to the recommendation process.
-- Selected features: "genres," "keywords," "title," "overview," "cast," and "crew."
+- Selected features: genres, keywords, title, overview, cast, and crew.
 
 ### Data Cleaning:
 
